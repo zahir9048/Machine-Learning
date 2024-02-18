@@ -1,0 +1,97 @@
+Name,Age,Email,Medical_Illness,ID_Card,Phone_Number,Address,Has_Email,Has_ID_Card,Has_Phone_Number,Has_Address,Privacy_Level,Target_Privacy_Level,Date&Time
+Ahmed,35.0,abc@example.com,Hypertension,43142435-34-6456,(956) 345-5445,Karachi,1,1,1,1,High,2,13-11-23 13:04
+Ansari,26.0,-,Mental,-,(94) 533-4555,-,1,0,0,0,Low,0,14-11-23 13:04
+Adil Aijaz,42.0,xyz@example.com,,-,(945) 734-4534,-,1,0,1,0,Medium,1,15-11-23 13:04
+Ramish,28.0,gjff@example.com,Asthma,-,-,-,1,0,0,0,Low,0,16-11-23 13:04
+Ahmed,19.0,-,-,-,-,Hyderabad,0,0,0,1,High,2,17-11-23 13:04
+Maria,19.0,-,Headache,45433453-43-4934,-,-,0,0,1,0,Medium,1,18-11-23 13:04
+Hasan,28.0,gjff@example.com,False Alarm,-,-,-,1,0,0,0,Low,0,19-11-23 13:04
+Aliya,19.0,gfdjgdj@example.com,Headache,45433453-43-4934,-,-,1,1,0,0,High,2,20-11-23 13:04
+Frederick Tran,58.0,-,Hypertension,-,-,-,0,0,0,0,Low,0,21-11-23 13:04
+Shirley Cox,51.0,stephanie44@example.net,Mental,-,(890)791-2685x0630,Donnaberg,1,0,1,1,High,2,22-11-23 13:04
+Karen Gonzalez,29.0,ystein@example.com,Asthma,96585554,416-774-8393,Lake Davidside,1,0,0,0,Low,0,23-11-23 13:04
+Angela White,40.0,kathyriley@example.org,Headache,-,001-706-615-4393x76810,West Henrymouth,1,0,1,0,Medium,1,24-11-23 13:04
+Kelly Carrillo,45.0,-,-,99056977,(203)463-0732x01091,-,1,0,0,0,Low,0,25-11-23 13:04
+Johnny Lowe,50.0,daniel19@example.com,-,-,282-252-1094x64428,South Joseph,0,1,0,0,High,2,26-11-23 13:04
+Morgan Chandler,31.0,sarastewart@example.org,-,-,-,-,1,0,1,0,Medium,1,27-11-23 13:04
+Alexander Murphy,47.0,-,False Alarm,19595727,777.942.4664x1502,-,0,0,1,0,Medium,1,28-11-23 13:04
+Dr. Hannah Russell DVM,46.0,-,Mental,54937717,(242)669-4709x23075,New Jared,0,1,1,1,High,2,29-11-23 13:04
+Adrian Adams,52.0,-,Headache,-,-10226,-,0,0,0,0,Low,0,30-11-23 13:04
+Taylor Vazquez,30.0,-,False Alarm,70524177,-,North Wendy,1,0,1,0,Medium,1,01-12-23 13:04
+Hector Brown,41.0,harrislisa@example.com,Hypertension,77360029,(343)486-9701x43535,Connieberg,1,0,0,0,Low,0,02-12-23 13:04
+Robert Bradley,30.0,-,-,-,(958)230-4328x766,-,0,0,1,1,High,2,03-12-23 13:04
+Nicole Clark,39.0,austin88@example.org,False Alarm,-,774-806-8837x6982,-,1,0,0,0,Low,0,04-12-23 13:04
+Evan Olson,22.0,joneskelly@example.net,Hypertension,-,-1806,Hullton,0,0,1,0,Medium,1,05-12-23 13:04
+Christopher Franklin,24.0,sbarber@example.com,-,13550118,5224838646,-,1,0,1,0,Medium,1,06-12-23 13:04
+Paul Aguilar,18.0,ohunter@example.net,-,99251569,614-596-8543x34056,New Josephview,1,0,0,0,Low,0,07-12-23 13:04
+Jessica Sawyer,48.0,fbooth@example.net,Hypertension,-,001-217-503-6289x64269,Jefferyshire,0,1,0,0,High,2,08-12-23 13:04
+Mr. Robert Mills,36.0,kimberly86@example.org,Mental,-,-,-,1,0,1,0,Medium,1,09-12-23 13:04
+Dennis Bradford,18.0,jeremiah73@example.net,-,84366238,-,-,0,0,1,0,Medium,1,10-12-23 13:04
+Jimmy Christensen,19.0,zmartin@example.org,-,-,-,Hallland,1,0,0,0,Low,0,11-12-23 13:04
+Adam Hanson,37.0,wongbrian@example.net,-,56251481,+1-341-589-1889x27746,Salazarborough,1,1,1,1,High,2,12-12-23 13:04
+Garrett Flowers,48.0,-,Asthma,-,001-349-806-6430x8339,New Brian,0,0,1,0,Medium,1,13-12-23 13:04
+Christopher Bishop,34.0,-,-,71833987,-,-,0,1,0,0,High,2,14-12-23 13:04
+Stephanie Mccullough,31.0,annetterobinson@example.net,-,35967518,+1-738-843-7174x2845,-,1,1,1,0,High,2,15-12-23 13:04
+Devon Clark,38.0,deannaroberts@example.org,Headache,60081754,-,-,1,0,0,0,Low,0,16-12-23 13:04
+Monica Wilson,54.0,padilladillon@example.com,-,70375495,-,-,1,1,1,1,High,2,17-12-23 13:04
+Grant Morrison,18.0,-,Hypertension,57546927,-,-,0,0,1,0,Medium,1,18-12-23 13:04
+Tracy Ortiz MD,47.0,jeffery48@example.com,False Alarm,-,001-393-428-7636x82757,-,1,0,0,0,Low,0,19-12-23 13:04
+Anthony Foley,42.0,vangjim@example.com,-,-,+1-270-378-8669x18519,Hilltown,0,0,1,1,High,2,20-12-23 13:04
+Julie Kim,39.0,olivia86@example.org,Hypertension,95574345,-,New Jennifermouth,0,0,0,0,Low,0,21-12-23 13:04
+Nancy Parker,40.0,gutierrezsusan@example.com,-,22966402,001-470-214-9272x1803,West Amyhaven,1,1,1,1,High,2,22-12-23 13:04
+Yolanda Evans,48.0,-,-,23465432,402.546.1285,Hoodtown,1,0,1,0,Medium,1,23-12-23 13:04
+Benjamin Morgan,60.0,-,-,12467939,-,New Patricia,0,0,1,0,Medium,1,24-12-23 13:04
+Zoe Robinson,29.0,-,Hypertension,13914077,683-364-2266,Lake Coleport,1,0,0,0,Low,0,25-12-23 13:04
+Alexander Murphy,47.0,-,False Alarm,19595727,777.942.4664x1502,-,0,0,1,0,Medium,1,26-12-23 13:04
+Christopher Bishop,34.0,-,-,71833987,-,-,0,1,0,0,High,2,27-12-23 13:04
+Alan Bishop,34.0,-,-,71833987,-,-,1,0,0,0,Low,0,28-12-23 13:04
+Guerrero,25.0,-,-,71833987,-,-,1,0,0,1,High,2,29-12-23 13:04
+,,,,,,,0,1,0,0,High,2,30-12-23 13:04
+,,,,,,,0,0,0,0,Low,0,31-12-23 13:04
+,,,,,,,0,1,0,0,High,2,01-01-24 13:04
+,,,,,,,0,1,0,0,High,2,02-01-24 13:04
+,,,,,,,1,0,1,0,Medium,1,03-01-24 13:04
+Adil,23.0,@,,3565476,,Karachi,1,1,0,1,High,2,04-01-24 13:04
+Hasan,22.0,dfjf,No,45345,56756-92-,Karachi,1,1,1,1,High,2,05-01-24 13:04
+Ramish,22.0,@,No,4546354,,K,1,1,0,1,High,2,06-01-24 13:04
+,,,,,,,0,0,0,0,Low,0,06-01-24 13:06
+,,,,,,,0,0,0,0,Low,0,06-01-24 13:12
+,,,,,,,0,0,0,0,Low,0,06-01-24 13:14
+,,,,,,,0,0,0,0,Low,0,17-06-24
+,,,,,,,0,0,0,0,Low,0,06-01-24 13:25
+Ansari,22.0,@,Asthma,,9234325,Islamabad,1,0,1,1,High,2,06-01-24 13:29
+Za,21.0,zahir9048,,42101-9363589-1,3313114993,Centrum,1,1,1,1,High,2,06-01-24 15:02
+Nadeem,45.0,nk435345@gmail.com,,41345-435-43534,3343451559,Karachi.,1,1,1,1,High,2,06-01-24 15:29
+Khan,19.0,khan!@34,Fever,421354-534534-423,,Sindh,1,1,0,1,High,2,06-01-24 15:38
+Ramish Masood,12.0,,,42353425,924354646,,0,1,1,0,High,2,06-01-24 15:41
+,,,,,,,0,0,0,0,Low,0,06-01-24 15:42
+Hasan,12.0,hasan@123,,,583453,,1,0,1,0,Medium,1,06-01-24 17:09
+Farhan,21.0,@34,,54645,,,1,1,0,0,High,2,07-01-24 0:57
+Zahir,23.0,@7453,none,,,,1,0,0,0,Low,0,07-01-24 1:04
+Hareem,19.0,Test@345,,,328432,Sindh,1,0,1,1,High,2,07-01-24 1:07
+Ramish,56.0,sfd,,,,K,1,0,0,1,High,2,07-01-24 1:10
+R,,5,,,,,1,0,0,0,Low,0,07-01-24 1:10
+r,,345g,,,,,1,0,0,0,Low,0,07-01-24 1:11
+,,,,,,,0,0,0,0,Low,0,07-01-24 1:29
+,,,,,,,0,0,0,0,Low,0,07-01-24 1:29
+Adil Aijaz,23.0,adil123@gmail.com,,,32143534543,,1,0,1,0,Medium,1,07-01-24 1:34
+Zahir Khan,22.0,zahir9048@gmail.com,Fever,4210193-63-5891,,"Gulshan, Karachi.",1,1,0,1,High,2,07-01-24 1:37
+Alina Khurram,23.0,alina123@test.com,Nine,,,,1,0,0,0,Low,0,07-01-24 1:38
+Ramish Masood,23.0,ramishmasood123@gmail.com,Headache,,,"Johar, Karachi 75959.",1,0,0,1,High,2,07-01-24 1:40
+Khan,30.0,kj9877,No,43534656,,Dummy Address,1,1,0,1,High,2,07-01-2024 03:34 AM
+Adil,12.0,gf,none,,,,1,0,0,0,Low,0,09-01-2024 11:16 AM
+adil,12.0,fdg,fd,,345,,1,0,1,0,Medium,1,09-01-2024 11:18 AM
+,,,,,,,0,0,0,0,Low,0,09-01-2024 11:39 AM
+test,9.0,k@,,,,Karachi,1,0,0,1,High,2,15-01-2024 10:48 PM
+adil,12.0,1234,,5434546,,K,1,1,0,1,High,2,15-01-2024 10:58 PM
+Ramish,26.0,ramishmsdsad@dsfsdf.com,Ab,123213,325324,Ramish,1,1,1,1,High,2,16-01-2024 12:34 PM
+ds,sd,ds,4,d,,,1,1,0,0,High,2,16-01-2024 12:47 PM
+Zahir,23,@534543,,645657,,,1,1,0,0,High,2,16-01-2024 12:52 PM
+ra,22,ramish@gmail.com,,466,475,A-56 FDY,1,1,1,1,High,2,16-01-2024 01:18 PM
+Y,,,,,,,0,0,0,0,Low,0,16-01-2024 01:20 PM
+,,,,,,,0,0,0,0,Low,0,16-01-2024 01:21 PM
+Zahir,12,zahir9048,,,,Karachi,1,0,0,1,High,2,18-02-2024 01:54 PM
+Test,23,@tet,Bukhaar,,0324455435,,1,0,1,0,Medium,1,18-02-2024 01:59 PM
+Fhd,23,test.com,Paet dard,,8454353,Karachi,1,0,1,1,High,2,18-02-2024 03:07 PM
+d,23,@,No,4345345,,,1,1,0,0,High,2,18-02-2024 03:08 PM
+,,,,,,,0,0,0,0,Low,0,18-02-2024 03:55 PM
